@@ -37,7 +37,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit test_taks1 / coverage reports
 htmlcov/
 .tox/
 .nox/
@@ -127,3 +127,50 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.pem
+*.db
+var/
+
+# EECS 485 Project 3
+node_modules/
+cookies.txt
+bundle.js
+
+# EECS 485 Project 4
+tmp
+output
+
+# EECS 485 Project 5
+output*
+total_document_count.txt
+*/hadoop/inverted_index/inverted_index.txt
+
+# JavaScript
+bundle.js
+bundle.js.map
+node_modules
+__pycache__
+bundle.js
+tmp
+cookies.txt
+session.json
+var
+*node_modules*
+files_for_autograder_io/
+*/var/*
+
+# macOS system files
+*.DS_Store
+
+# Google Drive and Dropbox
+Icon
+.dropbox*
+
+.idea/
+
+deployed_insta485.html
+deployed_insta485.log
+
+#langtest
+langtest.py
